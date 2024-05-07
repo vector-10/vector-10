@@ -1,4 +1,4 @@
- Hi there 👋,
+  <!-- Hi there 👋,
  I am Blaise Henshaw, a Software Development Engineer. 
  About Me:
 
@@ -10,13 +10,14 @@ Performance Profiling: Intel VTune Profiler, AMD uProf, NVIDIA Nsight, Linux Per
 Software Optimization: CPU Optimization, GPU Optimization, Memory Access Optimization, Cache Optimization
 Programming Languages: Python, C, JavaScript, Java
 Development Tools: Git, GitHub, Visual Studio Code, PyCharm, CMake
-Software Development: HTML, CSS, React, Node.js, Express.js
- <!--
- I major in building web applications with the Node.js and Express.js for the backend and React.js for the frontend. 
- MongoDB is my go to for databases but SQL is as beautiful too.
+Software Development: HTML, CSS, React, Node.js, Express.js -->
 
+Hi there 👋,
+ I am Chukwuduzie blaise, a Software Developer. 
+ About Me:
+ I major in building web applications with the JavaScript and Python, I am experienced with SQL and NOSQL databases and ORMs  for different usecase scenarios.
  
-- 🔭 I’m currently working on a Docker, Kubernetes, deployment and AI applications.
+- 🔭 I’m currently working on SaaS products AI applications.
 - 🌱 I’m currently learning TypeScript to build stable web applications.
 - 👯 I’m looking to collaborate on projects, articles, hackathons, paid Gigs etc.
 - 🤔 I’m looking for help with getting a full time role this year.
@@ -30,4 +31,4 @@ Software Development: HTML, CSS, React, Node.js, Express.js
 
 Here are some ideas to get you started:
 
--->
+
