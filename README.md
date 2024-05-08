@@ -15,7 +15,7 @@ Software Development: HTML, CSS, React, Node.js, Express.js -->
 Hi there 👋,
  I am Chukwuduzie blaise, a Software Developer. 
  About Me:
- I major in building web applications with the JavaScript and Python, I am experienced with SQL and NOSQL databases and ORMs  for different usecase scenarios.
+ I major in building web applications with the JavaScript and Python for AI Integrations, I am experienced with SQL and NOSQL databases and ORMs  for different usecase scenarios.
  
 - 🔭 I’m currently working on SaaS products AI applications.
 - 🌱 I’m currently learning TypeScript to build stable web applications.
@@ -23,7 +23,7 @@ Hi there 👋,
 - 🤔 I’m looking for help with getting a full time role this year.
 - 💬 Ask me about anything in technology, I will do my best to explain it.
 - 📫 How to reach me: duzieblaise10@gmail.com
-- 😄 Pronouns: I am He, Him
+- 😄 Pronouns: I am He, Him, god
 - ⚡ Fun fact: I love fighter jets and would love to fly one soon
 -->
 <!--
