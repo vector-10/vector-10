@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chukwuduzie Blaise</h1>
-<h3 align="center">Software Development Engineer with over Years of experience</h3>
+<h3 align="center">Software Development Engineer with Years of experience</h3>
 
 <p align="center">
   <a href="mailto:duzieblaise10@gmail.com">📫 Reach me: duzieblaise10@gmail.com</a> |
