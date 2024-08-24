@@ -13,18 +13,17 @@ Development Tools: Git, GitHub, Visual Studio Code, PyCharm, CMake
 Software Development: HTML, CSS, React, Node.js, Express.js -->
 
 Hi there 👋,
- I am Chukwuduzie blaise, a Software Developer. 
+ I am Chukwuduzie blaise, a Software Developer with over 3 years of Experience!
+ <br />
  About Me:
- I major in building web applications with the JavaScript and Python for AI Integrations, I am experienced with SQL and NOSQL databases and ORMs  for different usecase scenarios.
+ I major in building web applications with the JavaScript and Python for AI Integrations, I am experienced with SQL and NOSQL databases and ORMs for different usecase scenarios.
  
-- 🔭 I’m currently working on SaaS products AI applications.
-- 🌱 I’m currently learning TypeScript to build stable web applications.
+- 🔭 I’m currently working on SaaS Software Solutions for coporate Organizations.
 - 👯 I’m looking to collaborate on projects, articles, hackathons, paid Gigs etc.
-- 🤔 I’m looking for help with getting a full time role this year.
-- 💬 Ask me about anything in technology, I will do my best to explain it.
+- 💬 Ask me about anything in Software Development
 - 📫 How to reach me: duzieblaise10@gmail.com
 - 😄 Pronouns: I am He, Him, god
-- ⚡ Fun fact: I love fighter jets and would love to fly one soon
+- ⚡ Fun fact: I love fighter jets, I would fly one soon
 -->
 <!--
 **vector-10/vector-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
