@@ -24,7 +24,7 @@
 
 - **Databases:**
   <br />
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="40" height="40"/>
 - **Other Expertise:** ORMs, AI Integrations
