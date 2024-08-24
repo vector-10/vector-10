@@ -10,7 +10,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **SaaS Software Solutions** for corporate organizations.
+- 🔭 I’m currently Building **SaaS Software Solutions** for corporate organizations.
 - 👯 I’m looking to collaborate on **projects, articles, hackathons, and paid gigs**.
 - 💬 Ask me about anything in **Software Development**.
 - ⚡ Fun fact: I love **fighter jets** and plan to fly one soon.
@@ -28,11 +28,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vector-10&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vector-10&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-github-username?tab=repositories">🔗 View My Projects</a>
+  <a href="https://github.com/vector-10?tab=repositories">🔗 View My Projects</a>
 </p>
