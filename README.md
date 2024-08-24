@@ -17,8 +17,14 @@
 
 ### Skills
 
-- **Languages:** JavaScript, Python
-- **Databases:** SQL, NoSQL
+- **Languages:**
+  <br />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+- **Databases:**
+  <br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 - **Other Expertise:** ORMs, AI Integrations
 
 ### Pronouns
