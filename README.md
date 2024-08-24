@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chukwuduzie Blaise</h1>
-<h3 align="center">Software Development Engineer with over 4 years of experience</h3>
+<h3 align="center">Software Development Engineer with over Years of experience</h3>
 
 <p align="center">
   <a href="mailto:duzieblaise10@gmail.com">📫 Reach me: duzieblaise10@gmail.com</a> |
@@ -20,11 +20,12 @@
 - **Languages:**
   <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
 - **Databases:**
   <br />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://api.iconify.design/logos/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="40" height="40"/>
 - **Other Expertise:** ORMs, AI Integrations
 
 ### Pronouns
