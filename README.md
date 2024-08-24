@@ -1,21 +1,38 @@
+<h1 align="center">Hi there 👋, I'm Chukwuduzie Blaise</h1>
+<h3 align="center">Software Development Engineer with over 4 years of experience</h3>
 
+<p align="center">
+  <a href="mailto:duzieblaise10@gmail.com">📫 Reach me: duzieblaise10@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a>
+</p>
 
-Hi there 👋,
- I am Chukwuduzie blaise, a Software Developement Engineer with over 4 years of Experience!
- <br />
- About Me:
- I major in building web applications with the JavaScript and Python for AI Integrations, I am experienced with SQL and NOSQL databases and ORMs for different usecase scenarios.
- 
-- 🔭 I’m currently working on SaaS Software Solutions for coporate Organizations.
-- 👯 I’m looking to collaborate on projects, articles, hackathons, paid Gigs etc.
-- 💬 Ask me about anything in Software Development
-- 📫 How to reach me: duzieblaise10@gmail.com
-- 😄 Pronouns: I am He, Him, god
-- ⚡ Fun fact: I love fighter jets, I would fly one soon
--->
-<!--
-**vector-10/vector-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
+- 🔭 I’m currently working on **SaaS Software Solutions** for corporate organizations.
+- 👯 I’m looking to collaborate on **projects, articles, hackathons, and paid gigs**.
+- 💬 Ask me about anything in **Software Development**.
+- ⚡ Fun fact: I love **fighter jets** and plan to fly one soon.
 
+### Skills
+
+- **Languages:** JavaScript, Python
+- **Databases:** SQL, NoSQL
+- **Other Expertise:** ORMs, AI Integrations
+
+### Pronouns
+
+- 😄 He/Him/god
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-github-username?tab=repositories">🔗 View My Projects</a>
+</p>
