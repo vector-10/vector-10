@@ -15,6 +15,10 @@
 - 💬 Ask me about anything in **Software Development**.
 - ⚡ Fun fact: I love **fighter jets** and plan to fly one soon.
 
+### Pronouns
+
+- 😄 He/Him/god
+
 ### Skills
 
 - **Languages:**
@@ -29,9 +33,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="40" height="40"/>
 - **Other Expertise:** ORMs, AI Integrations
 
-### Pronouns
 
-- 😄 He/Him/god
 
 ---
 
