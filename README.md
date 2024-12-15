@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="mailto:duzieblaise10@gmail.com">📫 Reach me: duzieblaise10@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> |
+  <a href="https://x.com/vector_ware/">Twitter</a>
 </p>
 
 ---
