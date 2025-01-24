@@ -32,7 +32,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="40" height="40"/>
-- **Other Expertise:** Python Programming
+
+- **Languages:** Python Programming
 
 
 
