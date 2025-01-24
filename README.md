@@ -11,7 +11,7 @@
 
 ### About Me
 
-- 🔭 I’m currentlylearning Blockahain Development while Building **SaaS Software Solutions** for corporate organizations.
+- 🔭 I’m currently studying Blockahain Development while Building **SaaS Software Solutions** for corporate organizations.
 - 👯 I’m looking to collaborate on **open-source projects, hackathons, and paid gigs**.
 - 💬 Ask me about anything in **Software Development**.
 - ⚡ Fun fact: I love **fighter jets** and plan to fly one soon.
