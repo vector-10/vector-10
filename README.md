@@ -33,7 +33,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="40" height="40"/>
 
-- **Languages:** Python Programming
+- **Others:** Python Programming
 
 
 
