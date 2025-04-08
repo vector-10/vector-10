@@ -10,7 +10,7 @@
 ---
 
 ### About Me
-
+- My name is Akalonu Chukwuduzie Blaise, nice to meet you.
 - 🔭 I’m currently studying Blockchain Development while Building **SaaS and AI Software** for corporate organizations.
 - 👯 I’m looking to collaborate on **open-source projects, hackathons, and paid gigs**.
 - 💬 Ask me about anything in **Software Development**.
