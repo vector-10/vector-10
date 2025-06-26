@@ -38,10 +38,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vector-10&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vector-10&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Blaise's%20GitHub%20Stats" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vector-10&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/vector-10?tab=repositories">🔗 View My Projects</a>
