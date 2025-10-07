@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chukwuduzie Blaise</h1>
-<h3 align="center">Software and Blockchain Engineer with Years of experience</h3>
+<h3 align="center">Software and AI Engineer with Years of experience</h3>
 
 <p align="center">
   <a href="mailto:duzieblaise10@gmail.com">📫 Reach me: duzieblaise10@gmail.com</a> |
@@ -11,7 +11,7 @@
 
 ### About Me
 - My name is Akalonu Chukwuduzie Blaise, nice to meet you.
-- 🔭 I’m currently studying Blockchain Development while Building **SaaS and AI Software** for corporate organizations.
+- 🔭 I’m currently building **SaaS and AI Software** for corporate organizations.
 - 👯 I’m looking to collaborate on **open-source projects, hackathons, and paid gigs**.
 - 💬 Ask me about anything in **Software Development**.
 - ⚡ Fun fact: I love **fighter jets** and plan to fly one soon.
