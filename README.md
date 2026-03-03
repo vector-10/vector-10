@@ -24,7 +24,7 @@
 - Backend System Design
 - Payments & Financial Infrastructure
 - Database Architecture (SQL & NoSQL)
-- AI Agents & Applied Intelligence Systems
+- Learning about AI Agents & Applied Intelligence Systems
 
 ---
 
