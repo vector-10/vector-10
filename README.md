@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chukwuduzie Blaise</h1>
-<h3 align="center">Backend Engineer • Fintech • AI Systems</h3>
+<h3 align="center">Software Engineer • Fintech • AI Systems</h3>
 
 <p align="center">
   <a href="mailto:duzieblaise10@gmail.com">📫 duzieblaise10@gmail.com</a> |
