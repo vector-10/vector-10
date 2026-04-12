@@ -16,8 +16,6 @@
 - Pay Attention to **backend architecture & system design**
 - Currently deepening my knowledge of **Distributed Systems at scale**
 - Building and owning systems, not just surface-level apps
-- Learning Go Currently
-
 ---
 
 ### Core Focus
@@ -25,7 +23,7 @@
 - Backend System Design
 - Payments & Financial Infrastructure
 - Database Architecture (SQL & NoSQL)
-- Learning about Distributed Systems 
+- Learning about Distributed Systems and Microservices
 
 ---
 
