@@ -14,8 +14,9 @@
 - Backend-focused engineer building through **First Software Systems**
 - Interested in **Fintech, Lending Infrastructure, Open Banking, Wallets and Disbursements**
 - Pay Attention to **backend architecture & system design**
-- Currently deepening my knowledge of **SQL Databases and NoSQL (MongoDB)**
-- Building API-first products, not just surface-level apps
+- Currently deepening my knowledge of **Distributed Systems at scale**
+- Building and owning systems, not just surface-level apps
+- Learning Go Currently
 
 ---
 
@@ -24,7 +25,7 @@
 - Backend System Design
 - Payments & Financial Infrastructure
 - Database Architecture (SQL & NoSQL)
-- Learning about AI Agents & Applied Intelligence Systems
+- Learning about Distributed Systems 
 
 ---
 
