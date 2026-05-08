@@ -15,7 +15,7 @@
 - Interested in **Fintech, Lending Infrastructure, Open Banking, Wallets and Disbursements**
 - Pay Attention to **backend architecture & system design**
 - Currently deepening my knowledge of **Distributed Systems at scale**
-- Building and owning systems, not just surface-level apps
+- Building and owning systems, not just surface-level features
 ---
 
 ### Core Focus
