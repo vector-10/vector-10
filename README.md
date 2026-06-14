@@ -12,10 +12,10 @@
 ### About Me
 
 - Backend-focused engineer building through **First Software Systems**
-- Interested in **Fintech (Payments, Lending Infrastructure, Open Banking, Wallets and Disbursements)**
+- Specialize in **Fintech (Payments, Lending Infrastructure, Open Banking, Wallets and Disbursements)**
 - Pay Attention to **backend architecture & system design**
 - Currently deepening my knowledge of **Distributed Systems at scale**
-- Building and owning systems, not just surface-level features
+- Building and owning systems and Infrastructure not just surface-level features
 ---
 
 ### Core Focus
