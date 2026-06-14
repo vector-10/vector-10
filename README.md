@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chukwuduzie Blaise</h1>
+<h1 align="center"> I'm Chukwuduzie Blaise</h1>
 <h3 align="center">Software Engineer • Fintech • Distributed Systems</h3>
 
 <p align="center">
