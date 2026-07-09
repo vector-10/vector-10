@@ -14,7 +14,7 @@
 - Backend-focused engineer building through **First Software Systems**
 - Specialize in **Fintech (Payments, Lending Infrastructure, Open Banking, Wallets and Disbursements)**
 - Pay Attention to **backend architecture & system design**
-- Currently deepening my knowledge of ** Payments and Distributed Systems at scale**
+- Currently deepening my knowledge of **Payments and Distributed Systems at scale**
 - Building and owning systems and Infrastructure not just surface-level features
 ---
 
