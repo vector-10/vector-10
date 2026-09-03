@@ -11,7 +11,7 @@
 
 ### About Me
 
-- Backend-focused engineer building through **First Software Systems**
+- Product Engineer building through **First Software Systems**
 - Specialize in **Fintech (Payments, Lending Infrastructure, Open Banking, Wallets and Disbursements)**
 - Pay Attention to **backend architecture & system design**
 - Currently deepening my knowledge of **Payments and Distributed Systems at scale**
