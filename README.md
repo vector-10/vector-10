@@ -12,10 +12,10 @@
 ### About Me
 
 - Product Engineer building through **First Software Systems**
-- Specialize in **Fintech (Payments, Lending Infrastructure, Open Banking, Wallets and Disbursements)**
+- I Love Building Products **Fintech (Payments, Wallets and Disbursements, Logistics, AI)**
 - Pay Attention to **backend architecture & system design**
-- Currently deepening my knowledge of **Payments and Distributed Systems at scale**
-- Building and owning systems and Infrastructure not just surface-level features
+- Currently deepening my knowledge of **Agents, Open Models and Advanced System Design**
+- Building products and owning outcomes in software
 ---
 
 ### Core Focus
@@ -23,7 +23,7 @@
 - Backend System Design
 - Payments & Financial Infrastructure
 - Database Architecture (SQL & NoSQL)
-- Learning about Distributed Systems and Microservices with Go
+- Learning about Distributed Systems, AI, Agents, Products
 
 ---
 
