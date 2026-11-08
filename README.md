@@ -12,7 +12,7 @@
 ### About Me
 
 - Product Engineer building through **First Software Systems**
-- I Love Building Products **Fintech (Payments, Wallets and Disbursements, Logistics, AI)**
+- I enjoy solving problems with software, could be in Fintech, Logistics or with AI**
 - Pay Attention to **backend architecture & system design**
 - Currently deepening my knowledge of **Agents, Open Models and Advanced System Design**
 - Building products and owning outcomes in software
